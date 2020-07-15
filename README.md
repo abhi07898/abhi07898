@@ -1,4 +1,4 @@
-### This is ABHISHEK PANDEY 
+### This is ABHISHEK PANDEY (BCA+MCA)
 __Languages__
 1. Java
 2. C#
@@ -35,11 +35,15 @@ __Languages__
 1.  Hosting 
 2.  Teaching 
 3.  Learner 
-4.  Youtuber - Channel_name --:  ***Abhiyantriki
+4.  Youtuber - Channel_name --:  ***Abhiyantriki*** Youtube_Link - https://www.youtube.com/channel/UC-XOy2x0o775jAIV9c71SUQ
 5.  Handling Large_size_Data using Library Pandas for Analysis and  Matplotlib - Cufflinks - plotly - Seaborn for visualize the Dataset.
 6.  Prediction of data using different different ML Algos 
 
-
+### Achievement 
+1. List in Dist Topper(Mau - U.P) in ***High School*** with ***88.33%*** in 2012.
+2. List in Dist Topper(Mau - U.P) in ***Intermediate***  with ***93.68%*** in 2014.
+3. Best Student during Graduation with ***MITM***.    
+4. Best Teacher Award during teacing in a conevnt school ***Vasundhara Conevnt Vidyalaya*** in 2017-2018 Session.
 
 
 
