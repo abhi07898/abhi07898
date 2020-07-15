@@ -14,7 +14,7 @@ __Languages__
 12. SQL
 13. Microsoft SQL Server 
 14. Mongo DB with Python 
-15. __Web Desigining__
+### Web Desigining
   1. HTML
   2. CSS
   3. CSS 3
