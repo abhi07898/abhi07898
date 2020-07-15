@@ -1,4 +1,4 @@
-### Hi there 👋 I am ABHISHEK PANDEY 
+### This is ABHISHEK PANDEY 
 __Languages__
 1. Java
 2. C#
@@ -29,6 +29,18 @@ __Languages__
 4. Handling Large_size_Data using Library Pandas for Analysis and  Matplotlib - Cufflinks - plotly - Seaborn for visualize the Dataset.
 5. Deep Learning 
 6. Learn latest Technology 
+
+### Skills 
+
+1.  Hosting 
+2.  Teaching 
+3.  Learner 
+4.  Youtuber - Channel_name --:  ***Abhiyantriki
+5.  Handling Large_size_Data using Library Pandas for Analysis and  Matplotlib - Cufflinks - plotly - Seaborn for visualize the Dataset.
+6.  Prediction of data using different different ML Algos 
+
+
+
 
 
 <!--
