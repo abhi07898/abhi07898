@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Software Development (E-Commerce)**
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning about **Blockchain Development**
 
-- 👯 I’m looking to collaborate on **WooCommerce Plugin Developemnt**
+- 👯 I’m looking to collaborate on **Wordpress/WooCommerce Plugin Developemnt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi07898](https://github.com/abhi07898)
 
-- 📫 How to reach me **abhi07898@gmail.com**
+- 📫 How to reach me E-mail ID -  **abhi07898@gmail.com** Contact No - **+919120197515**
 
 - 📄 Know about my experiences (2 Years as E-Commerce Software Developer).
 
