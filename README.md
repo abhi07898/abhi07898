@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhi07898@gmail.com**
 
-- 📄 Know about my experiences [2 Years as E-Commerce Software Developer](2 Years as E-Commerce Software Developer)
+- 📄 Know about my experiences (2 Years as E-Commerce Software Developer).
 
 - ⚡ Fun fact **I think i am flirty.**
 
