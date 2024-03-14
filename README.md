@@ -3,17 +3,17 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi07898&label=Profile%20views&color=0e75b6&style=flat" alt="abhi07898" /> </p>
 
-- 🔭 I’m currently working on **Software Development (E-Commerce)**
+- 🔭 I’m currently working on **Software Development (E-Commerce | PHP | Wordpress | WooCommerce )**
 
 - 🌱 I’m currently learning about **Blockchain Development**
 
-- 👯 I’m looking to collaborate on **Wordpress/WooCommerce Plugin Developemnt**
+- 👯 I’m looking to collaborate on **Wordpress/WooCommerce Theme & Plugin Developemnt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi07898](https://github.com/abhi07898)
 
-- 📫 How to reach me E-mail ID -  **abhi07898@gmail.com** Contact No - **+919120197515**
+- 📫 How to reach me E-mail ID -  **er.abhishekpandey00@gmail.com** Contact No - **+919120197515**
 
-- 📄 Know about my experiences (2 Years as E-Commerce Software Developer).
+- 📄 Know about my experiences (3.5 Years as E-Commerce Software Developer).
 
 - ⚡ Fun fact **I think i am flirty.**
 
